@@ -1,5 +1,4 @@
 # New Project
-This Project was created from local system
-
-Created by Neil Malhotra
+This Project was created from local system.
+Created by Neil Malhotra.
 
